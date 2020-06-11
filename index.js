@@ -33,4 +33,3 @@ new Vue( {
    <div>
    `
 })
-https://codepen.io/sgrider/pen/eMqjgw?editors=1011
